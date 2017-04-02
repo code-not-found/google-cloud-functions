@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Google Cloud Functions - Hello World Example",
   "homepage" : "https://www.codenotfound.com/2017/04/google-cloud-functions-hello-world-example.html",
-  "main": "index.js",
+  "main": "./index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
